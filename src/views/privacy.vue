@@ -1,0 +1,615 @@
+<!--
+ * @Author: niweixing
+ * @Date: 2023-10-30 00:58:50
+ * @LastEditors: niweixing
+ * @LastEditTime: 2023-10-30 00:59:28
+ * @Description: 
+-->
+<template>
+  <div class="privacy_wrap">
+    [Introduction] Welcome to the Guanggan Platform! Guanggan (hereinafter
+    referred to as "we") understands the significance of your personal
+    information and places a strong emphasis on safeguarding your privacy and
+    personal data. In compliance with legal requirements, we will elucidate how
+    we handle your personal information when you utilize the products and
+    services of the Guanggan Platform through the "Guanggan Personal Information
+    Protection Policy" (hereinafter referred to as "this policy"). Additionally,
+    we will outline how you can access, update, delete, and safeguard this
+    information. [Special Notice] Before you use the products and services
+    offered by the Guanggan Platform, it is imperative that you thoroughly read
+    and comprehend this policy, particularly the terms highlighted in bold. Pay
+    close attention to these terms and proceed to use the products and services
+    of the Guanggan Platform only after confirming that you fully understand and
+    agree. If you or your legal guardian (if you are a minor) disagree with any
+    part of this policy, you can utilize the search and browsing features of the
+    Guanggan Platform. However, you will not be able to access the products and
+    services. If you have questions, opinions, or suggestions concerning this
+    policy, please contact us using the information provided in Article 9 of
+    this policy. This Privacy Policy will assist you in understanding the
+    following: I. Scope of Application II. Information Collection and Use III.
+    Provision of Information to Third Parties IV. Your Rights V. Data Storage
+    VI. Policy Updates VII. Protection of Minors VIII. Contact Us Appendix:
+    Definitions I. Scope of Application 1. This policy pertains to all products
+    and services offered by Guanggan. In cases where products or services from
+    us or our affiliated companies use Guanggan's products or services and do
+    not have their own independent personal information protection policy, this
+    policy shall apply to that part. However, if products or services from us or
+    our affiliated companies have their independent personal information
+    protection policy, that independent policy will take precedence. Any content
+    not covered by the independent policy but included in this policy will be
+    governed by this policy. 2. This policy does not extend to information or
+    services provided by third parties integrated into or linked to the products
+    or services of the Guanggan Platform, including third-party applications,
+    websites, etc. These services or information are operated by third parties
+    and are subject to the personal information protection policy or similar
+    provisions of those third parties. II. Information Collection and Use When
+    you use our products and services, we may collect and use your personal
+    information, including the following: 1. To provide you with the basic
+    functions of our products and/or services, you must authorize us to collect
+    and use the necessary information. If you decline to provide this
+    information, you will not be able to utilize our products and/or services as
+    intended. 2. To provide you with additional functions of our products and/or
+    services, you may choose to agree or disagree separately with the
+    information we collect and use. Refusing to provide this information will
+    result in the inability to use additional features or lacking access to the
+    intended functionality. This will not affect your use of our basic
+    functions. We wish to emphasize that our commitment to creating a variety of
+    products and services to meet your needs means that there may be differences
+    in the types and scope of personal information collected and used for basic
+    and additional functions due to the diverse range of products and services
+    we offer and varying product/service choices made by different users. Please
+    refer to the specific product/service features for accurate information. The
+    specific functional scenarios we will provide you include: (I) Assisting You
+    in Becoming Our Member and Account Management 1. Basic Member Services We
+    offer services based on your Guanggan Platform account. To create a Guanggan
+    Platform account, you must provide us with your email. Failure to provide
+    the above information will prevent you from registering a Guanggan Platform
+    account, and you can only use browsing and search services. We will assess
+    your current level based on your usage of the Guanggan Platform account and
+    the account level calculation rules set by the platform. We will provide you
+    with corresponding basic rights associated with your account level. 2.
+    Additional Member Services Special member privileges: If you opt to provide
+    your real name, gender, date of birth, place of residence, nickname, and
+    avatar, we can offer you member privilege services. Your chosen nickname and
+    avatar will be publicly displayed. Authorized login: With your individual
+    consent, we may provide your account information (avatar, nickname, and
+    other displayed information) to third parties, allowing you to easily
+    register with third-party accounts or log in directly to third-party
+    services. Additionally, with your individual consent, we may obtain your
+    third-party account information from third parties and link it to your
+    Guanggan Platform account, enabling you to log in and use our products and
+    services directly through third parties. We will use your relevant
+    information within the scope of your individual consent. If you already have
+    a Guanggan Platform account, we may display your personal information and
+    the actions you perform on the Guanggan Platform or products and services
+    associated with the Guanggan Platform account. This includes centralized
+    display of your profile, special offers, and transaction orders on the
+    Guanggan Platform. We will respect the choices you make regarding Guanggan
+    Platform services and Guanggan Platform account settings. 3. Identity
+    Verification To comply with relevant legal requirements and regulatory
+    demands, ensure the authenticity of user identity, implement anti-fraud and
+    risk control measures, and safeguard system and service security, we may
+    need to collect your relevant information for identity verification when you
+    use specific services/features, including: [Account Recovery] When you use
+    the "account recovery" function, we may collect your identity information,
+    including your real name and ID card number, to verify your identity and
+    assist you in recovering your Guanggan Platform account. [Account Enhanced
+    Protection] When you use the account enhanced protection function, you can
+    choose to submit facial recognition information or voiceprint information to
+    enable facial and voice recognition verification. Refusing to provide the
+    aforementioned sensitive personal information will only result in your
+    inability to use the corresponding function but will not affect your normal
+    use of other functions. [Real Name/Real Person Authentication] For
+    transactions involving special types of goods or services, applying for
+    member roles with additional identity verification requirements (such as
+    sellers, content creators), and other scenarios requiring verification of
+    the user's real identity under the law (including protecting the rights of
+    minors under the law, combating telecommunications network fraud,
+    withholding personal income tax, determining the relevant entities in
+    administrative law enforcement or judicial litigation), you will need to
+    undergo real name or real person authentication. To achieve the
+    authentication purpose, you need to actively provide relevant real identity
+    information (name, ID card number, or facial recognition information, as
+    applicable based on the prompts on the page) and authorize us to verify your
+    information through nationally authorized and credible identity verification
+    agencies. Depending on the situation, we may also obtain necessary
+    authentication information binding your Alipay account and WeChat account
+    from Alipay and Tencent companies, respectively. We will lawfully record and
+    retain authentication information and the authentication result, using this
+    information solely for the purpose of completing authentication or other
+    purposes required by laws and regulations. It will not be used for other
+    purposes without your explicit authorization. Furthermore, when you
+    participate in promotions and interactive activities on the platform, we may
+    need to query your Alipay account or WeChat account's real-name
+    authentication status from Alipay and Tencent companies to verify your basic
+    participation conditions and ensure your activity experience. (II) Providing
+    Product/Service Information Display, Recommendations, and Push Notifications
+    In order to offer you product/service information display, recommendations,
+    and push notifications, we will collect and use your information, which
+    includes your name, phone number, browsing history, and search history when
+    you visit or use the Guanggan Platform website or client. We will utilize
+    device information collected in compliance with the law, service log
+    information, and other authorized data to predict your preference
+    characteristics using algorithm models. Based on these characteristics, we
+    will push commercial advertisements and other potentially interesting
+    information on the Guanggan Platform and other third-party applications or
+    send commercial text messages. Additionally, we will conduct statistical
+    analysis of user trends, hotspots, and trends in browsing and searching for
+    goods or services on the Guanggan Platform to create relevant curated lists
+    and provide recommendations. Personalized recommendation and retrieval
+    algorithms will match goods, services, or other information that may
+    interest you based on predicted preference characteristics, and will sort
+    the displayed items accordingly. We will offer real-time feedback on the
+    recommendation model based on your browsing behavior during product usage,
+    continuously adjusting and optimizing recommendation results. To meet your
+    diverse needs, we will introduce various recommendation technologies into
+    the sorting process, expand recommended content, and avoid excessive
+    concentration of similar content. Simultaneously, we take measures to ensure
+    your privacy as follows: 1. If you wish to stop receiving commercial
+    advertisements from us, you can unsubscribe or opt-out by replying to SMS
+    prompts or through other methods we provide. 2. If you need to view sorting
+    not tailored to your personal characteristics when using our on-site search
+    service, you can click on "Filter" on the search results page and choose
+    options like "Sales," "Price," or "General Sorting." 3. If you do not want
+    to see recommended products or services on the homepage or payment
+    completion page, you can long-press the recommended product or service image
+    and, in the subsequent pop-up window, choose to block similar products or
+    the category to which the product or service belongs. 4. If you wish to
+    manage the personalized advertisements we send you, you can go to "Me -
+    Settings - Privacy Settings - Ad Management" to make adjustments. 5. If you
+    want to manage the personalized content we push to you, you can go to "Me -
+    Settings - Privacy Settings - Recommendation Management" to make
+    adjustments. (III) Providing Collection, Add to Cart, Follow, and Share
+    Features While browsing our website or client, you can choose to collect,
+    add items to your cart, establish follow relationships with
+    merchants/brands/other members you're interested in, and share information
+    about products/services with third parties using the components and features
+    we provide. During your use of these features, we will collect service log
+    information, including your collection and shopping cart records, follow
+    relationships, and sharing history, for the purpose of implementing the
+    mentioned features and other purposes that we explicitly communicate to you.
+    You can view or manage your collections and add items to your favorites and
+    shopping cart. (IV) Assisting You in Placing Orders and Managing Orders When
+    you order specific goods and/or services through our products and/or
+    services, we will generate an order for the purchase of these goods and/or
+    services on your behalf. During the ordering process, you are required to
+    provide at least your recipient's name, shipping address, recipient's
+    contact number, and, for certain special types of goods and services, other
+    necessary information, such as your ID card information when involved in
+    cross-border transactions, to complete customs clearance. The order will
+    include information about the goods and/or services you have purchased, a
+    specific order number, order creation time, the amount you need to pay, and
+    any notes you provide. We collect this information to assist you in
+    completing transactions, ensure the security of your transactions,
+    facilitate order tracking, provide customer service and after-sales
+    services, and for other purposes that we explicitly communicate to you. You
+    can also place orders for others through the Guanggan Platform. In such
+    cases, you will need to provide the recipient's personal information as
+    mentioned above and ensure you have obtained the recipient's consent. To
+    help you understand and manage your order information, we will collect order
+    information generated during your use of our services for displaying and
+    facilitating order management. You can provide additional information,
+    including other contact numbers and preferred delivery times, to ensure
+    accurate delivery of goods or services. You can view and manage your order
+    information through "My Orders" and "SMS Services." (V) Assisting You in
+    Completing Payments To finalize your order payments, you can choose payment
+    services provided by third-party payment institutions (such as Alipay,
+    WeChat Pay, UnionPay, and other payment channels) that cooperate with
+    Guanggan. We will share your Guanggan Platform account member name, the
+    corresponding Payment Institution member name, order payment-related
+    information, order security-related device information, and other necessary
+    data required by anti-money laundering laws with the Payment Institutions.
+    This sharing will be facilitated through the embedded Payment Institution
+    software development kit (SDK) on the website or client and other secure
+    methods. If you opt for other financial institutions to provide payment
+    services, we will also share your necessary bank card information, including
+    the card number and expiration date, with the relevant financial institution
+    of your choice. If you need others to make payments on your behalf, you will
+    need to provide the payer's Payment Institution account and/or phone number.
+    To monitor and confirm your payment progress and status promptly, as well as
+    to provide after-sales and dispute resolution services, you agree that we
+    may collect payment-related information from the transaction parties,
+    Payment Institutions, or other financial institutions you choose. You can
+    view the Payment Institution account information associated with your
+    Guanggan Platform account or apply to change the Payment Institution account
+    binding. (VI) Assisting in the Delivery of Goods or Services To ensure the
+    smooth, safe, and accurate delivery of goods and/or services you purchase,
+    we will disclose delivery information related to your order to the seller
+    providing the goods. We will also synchronize relevant delivery information
+    to the corresponding logistics service providers selected by the provider of
+    goods and/or services. Please note that the relevant logistics service
+    providers will inevitably access and use your delivery information for the
+    purpose of completing the delivery. To provide after-sales and dispute
+    resolution services, we need to promptly monitor and confirm delivery
+    progress and status. You agree that we may collect information related to
+    delivery progress from relevant logistics service providers. (VII) Customer
+    Service and Dispute Resolution When you contact us or file applications
+    related to pre-sale, after-sale, or dispute resolution, we may request
+    necessary personal information from you to verify your membership identity
+    for account and system security. To facilitate communication with you,
+    assist you in problem resolution, and record processing solutions and
+    results for relevant issues, we may save your communications, call records,
+    and related content, including account information, order information, other
+    information you provide to prove relevant facts, and contact information you
+    provide. If you have inquiries, complaints, or suggestions related to
+    specific orders, we will use your account information and order information.
+    To provide services and enhance service quality, we may also use other
+    information provided by you, including information shared during customer
+    service interactions, responses to questionnaires you send us, and other
+    information sent when contacting customer service. (VIII) Providing You with
+    Information Publishing Functions Through our comments, questions and
+    answers, forums, personal profiles, and other information publishing
+    functions, you can choose to publicly publish textual, video, or
+    live-streaming content, post evaluations and questions, and publish
+    information related to products and services as a seller. We respect and
+    protect your choices regarding whether to publish relevant information and
+    the scope of publication. We may determine whether you have permission for
+    corresponding information publishing functions based on your membership type
+    and network logs. Please note that the information you publicly publish may
+    involve personal information, or even sensitive personal information related
+    to you or others, such as when you choose to upload images containing
+    personal information in your reviews. Please exercise caution and consider
+    the privacy of others when sharing or publicly disclosing such information
+    while using our services. If the information you publicly publish involves
+    personal information of others, you must obtain their consent before
+    publishing. (IX) Providing You with Security Measures To fulfill legal
+    obligations, ensure the security of e-commerce transactions, enhance the
+    security of your use of our services, protect personal and property safety,
+    and prevent malicious activities like phishing websites, fraud, network
+    vulnerabilities, computer viruses, network attacks, network intrusions, and
+    violations of laws and regulations, we collect device information, service
+    log information, and integrate your membership information. We also employ
+    information obtained with your authorization or shared under the law. By
+    embedding application security SDK developed by our affiliated companies
+    into our application, we can assess account and transaction risk, conduct
+    identity verification, and detect and prevent security incidents. We may
+    take necessary measures such as recording, auditing, analysis, and disposal
+    as required by the law. (X) Other Additional Services Provided to You 1.
+    Additional Services Based on System Permissions: To offer more convenient,
+    high-quality, and personalized products and/or services and enhance your
+    user experience, we may collect and use your personal information through
+    system permissions in the additional services provided to you. If you do not
+    agree to enable relevant permissions, it will not affect your use of
+    Guanggan Platform's basic services, but you may not be able to access the
+    enhanced user experience provided by these additional services. You can
+    check the status of these permissions one by one in your device's "Settings"
+    or our client's "My - Settings - Privacy - System Permissions" and decide to
+    enable or disable them at any time. Please note that enabling permissions
+    authorizes us to collect and use related personal information for the
+    corresponding service. Disabling permissions cancels your authorization, and
+    we will no longer collect or use the related personal information, and we
+    cannot continue providing the service corresponding to that permission. Your
+    decision to disable permissions will not affect the information collection
+    and use conducted based on your previous authorization. 2. Services
+    Involving Cookies and Similar Technologies: Cookies and similar device
+    information identification technologies are widely used on the internet.
+    When you use our services, we may use these technologies to send cookies to
+    your device to collect, identify, and store information about your visits
+    and use of our products. We promise not to use cookies for any purposes
+    beyond those described in this privacy policy. We mainly use cookies to
+    ensure the security and efficient operation of our products and services,
+    which allows us to confirm the security status of your account and
+    transactions, identify and rectify related issues like crashes and delays,
+    and help you skip repetitive steps in filling out forms and entering search
+    queries. We may also use cookies to show you information or features that
+    you may be interested in and optimize your ad preferences. Most browsers
+    provide a function to clear browser cache data, and you can perform
+    corresponding data clearance operations or modify your acceptance level of
+    cookies to refuse our cookies. However, such changes may result in your
+    inability to use services or corresponding functions that rely on cookies.
+    (XI) Other Rules for Collecting and Using Personal Information 1. If the
+    information you provide contains the personal information of other users,
+    you must ensure that you have obtained legal authorization before providing
+    these personal information to Guanggan Platform. 2. If we use information
+    for purposes not described in this policy or use information collected for
+    specific purposes for other purposes, we will obtain your consent in
+    advance. 3. Under strict de-identification using secure encryption
+    technology, data collected may be used for machine learning, algorithm model
+    training, and other data analysis and mining processes to protect our
+    product experience and assist in business decision analysis without
+    re-identifying specific individuals. (III) Provision of Information to Third
+    Parties (I) Sharing We will not share your personal information with
+    companies, organizations, and individuals outside of Guanggan Platform
+    service providers, except in the following cases: 1. Sharing required by
+    law: We may share your personal information based on legal obligations. This
+    includes complying with legal and regulatory requirements, which are
+    necessary for legal proceedings and dispute resolution, requests from
+    administrative or judicial authorities as per the law, and other mandatory
+    legal obligations. 2. Sharing with your consent: With your explicit consent,
+    we will share your personal information with other parties. 3. Sharing
+    necessary for entering into and performing contracts: When you purchase
+    goods or services through the Guanggan Platform, we may share the necessary
+    information related to the transaction from your order information with the
+    relevant provider of the goods or services based on your selection. This is
+    done to fulfill your transaction, delivery, and after-sales service needs.
+    4. Sharing among affiliated companies: To facilitate our ability to jointly
+    provide services to you based on your Guanggan Platform account, offer
+    products and services, recommend information of interest, identify account
+    abnormalities, protect the personal and property safety of Guanggan
+    affiliated companies, other users, or the public, your personal information
+    may be shared with our affiliated companies and their designated service
+    providers. We will only share necessary personal information, subject to the
+    constraints of the purposes stated in this policy. If we share your
+    sensitive personal information or change the purposes for using and
+    processing personal information with affiliated companies, we will obtain
+    your consent again. 5. Sharing with third-party advertising service
+    providers and third-party advertising monitoring providers: During the
+    advertising delivery process, we follow the principle of minimal sharing
+    with third-party advertising service providers and third-party advertising
+    monitoring providers. This sharing includes your phone number, name, and
+    information related to your interactions with ads. We sign agreements with
+    partners to ensure that they comply with privacy and security-related laws,
+    adopt appropriate physical, technical, organizational, and administrative
+    protection measures, and use the data we provide according to the agreement
+    while protecting your personal data. Please note that information you
+    voluntarily share or publicly disclose when using our services may involve
+    personal information or even sensitive personal information related to you
+    or others. Please carefully consider and make decisions regarding this. (II)
+    Entrusted Processing We may entrust authorized partners to process your
+    personal information so that these partners can represent us in providing
+    certain services or fulfilling functions on our behalf. We will only entrust
+    them with your information for legitimate, legal, necessary, specific, and
+    clear purposes as stated in this policy. Authorized partners are only
+    allowed to access the information required for the performance of their
+    duties, and we will require them not to use this information for any
+    purposes beyond the scope of the entrusted tasks. If authorized partners use
+    your information for purposes not entrusted by us, they must obtain your
+    separate consent. Currently, the types of authorized partners we entrust
+    include: 1. Authorized partners for advertising and analytical services: We
+    entrust these partners to process information related to advertising
+    delivery, coverage, and effectiveness while employing industry-standard
+    security technology. We do not entrust them with your personal identity
+    information. 2. Suppliers, service providers, and other partners: We entrust
+    information to support our business, including vendors and service providers
+    supporting our technology infrastructure services, analyzing how our
+    services are used, providing customer service, offering convenient payment
+    methods, or conducting academic research and surveys. To ensure the stable
+    operation and functionality of our client, and to enable you to use and
+    enjoy more services and functions, our application embeds SDKs or similar
+    applications from authorized partners. We conduct strict security testing
+    for authorized partner application programming interfaces (APIs) and
+    software development kits (SDKs) and require authorized partners to adopt
+    strict data protection measures according to this policy and any other
+    relevant confidentiality and security measures when handling personal
+    information. (III) Transfer If we need to transfer personal information due
+    to mergers, divisions, dissolution, or bankruptcy, we will inform you of the
+    name or name and contact information of the receiving party. The receiving
+    party will continue to adhere to this policy and other legal obligations. If
+    the receiving party changes the originally stated purposes or processing
+    methods, they will need to obtain your consent again. (IV) Public Disclosure
+    We will only publicly disclose your personal information in the following
+    situations: 1. Based on your active choices and separate consent: We may
+    publicly disclose your personal information with your explicit consent. 2.
+    If we determine that you have violated laws, regulations, or seriously
+    violated Guanggan Platform related agreements and rules: We may disclose
+    your personal information, including details of any violations and the
+    actions taken by Guanggan Platform. This is done if there is a need to
+    protect the personal and property safety of Guanggan Platform users or the
+    public from harm. (IV) Your Rights You have the following rights concerning
+    your personal information: (I) Access, Correction, and Supplement You can
+    access, correct, and supplement your information through the following
+    methods: - Log in to the Guanggan Platform, go to "My," and select "Account
+    Settings." (II) Copy You can copy your information through the following
+    methods: - Log in to the Guanggan Platform, go to "My - Settings - Privacy -
+    Personal Information Download." (III) Deletion You can delete some of your
+    information through the paths listed in "(1) Access, Correction, and
+    Supplement," or request to delete your entire account. In the following
+    situations, you can request the deletion of personal information by
+    contacting customer service: 1. If our processing of personal information
+    violates laws and regulations. 2. If we collect and use your personal
+    information without obtaining your explicit consent. 3. If our processing of
+    personal information significantly violates our agreement with you. 4. If
+    the purpose of our processing has been achieved, is no longer achievable, or
+    is no longer necessary for achieving the processing purpose. 5. If we cease
+    to provide products or services, or if the storage period has expired. If we
+    decide to respond to your request for deletion, we will also endeavor to
+    inform the entities from which we have obtained your personal information to
+    promptly delete it (unless otherwise provided by laws and regulations, or
+    these entities have independently obtained your authorization). After you or
+    we assist you in deleting the relevant information, due to the limitations
+    of applicable laws and security technology, we may not be able to
+    immediately delete the corresponding information from the backup system. We
+    will securely store your personal information and restrict any further
+    processing until the backup can be cleared or anonymized. (IV) Changing
+    Authorization Scope You can change or withdraw your authorization for us to
+    collect and process your personal information through the following method:
+    - In "My - Settings - Privacy - Find My Way," you can manage your
+    authorization. For authorizations that you cannot directly modify using the
+    above method, you can make changes by contacting customer service. However,
+    please note that for certain types of personal information, such as
+    information necessary to provide the essential functions of the Guanggan
+    Platform, or information required by us to fulfill legal and regulatory
+    obligations, we may not be able to respond to your request to change the
+    authorization scope. When you withdraw your authorization, we will cease
+    processing the corresponding personal information. However, your decision to
+    withdraw your authorization will not affect our processing of personal
+    information based on your previous authorization. (V) Account Cancellation
+    You can apply to cancel your account through the following methods: 1. In
+    "My - Settings - Account and Security - Account Cancellation," submit a
+    request to cancel your account. 2. Apply to cancel your account by
+    contacting customer service. After you voluntarily cancel your account, we
+    will cease providing products or services and, in accordance with applicable
+    laws, delete or anonymize your personal information. (VI) Restriction of
+    Information System's Automatic Decision-Making In some business functions,
+    we may make decisions solely based on non-human automated decision-making
+    mechanisms, including algorithms. If these decisions affect your legitimate
+    rights and interests, you can contact us through customer service. (VII)
+    Responding to Your Requests For your requests and the personal information
+    rights related to you under Chinese laws and other applicable laws, as well
+    as those made by you or possibly made by your guardians, close relatives, or
+    other authorized persons, you can contact us through customer service or
+    directly communicate with our dedicated personal information protection
+    department. We will respond within 15 days. To ensure the security of your
+    account and personal information, when you make the requests mentioned
+    above, we may first verify your identity (such as enhancing account
+    verification, requiring you to provide a written request, or using other
+    reasonable methods) before processing your request. We generally do not
+    charge fees for your reasonable requests, but we may charge a reasonable fee
+    for requests that are made multiple times or exceed reasonable limits. We
+    may also reject requests for information that is not directly associated
+    with your identity, or requests that are made for no reasonable cause, are
+    repetitively made, require excessive technical means (such as requiring the
+    development of new systems or changing established practices), pose risks to
+    the legitimate rights and interests of others, or are impractical. (V)
+    Information Storage (I) Storage Period We will only retain your personal
+    information for the time necessary to achieve the purposes outlined in this
+    policy, unless there is a mandatory retention requirement under applicable
+    laws, such as the "People's Republic of China E-Commerce Law," which
+    requires the retention of product and service information and transaction
+    information for at least three years from the completion of a transaction.
+    The storage period of personal information is mainly determined based on the
+    following criteria: 1. To complete the transaction purpose related to you,
+    maintain corresponding transaction and business records to address your
+    potential inquiries or complaints. 2. To ensure the security and quality of
+    the services we provide to you. 3. Whether you agree to a longer retention
+    period. 4. Relevant requirements for the statute of limitations. 5. Other
+    special agreements or legal requirements regarding retention periods. After
+    the retention period has elapsed, we will delete or anonymize your personal
+    information in accordance with applicable legal requirements. (II) Storage
+    Location The personal information collected and generated in our operation
+    will be stored in China. We may provide your personal information to
+    overseas entities after fulfilling the obligations required by applicable
+    laws: 1. When there are clear legal provisions. 2. When we obtain your
+    separate consent. 3. When it is necessary to enter into and fulfill
+    cross-border e-commerce transactions and other types of contracts in which
+    you act as one of the parties. For the situations mentioned above, we will
+    protect your personal information security in accordance with this policy.
+    (III) Storage Security 1. Data Protection Technology Measures: We have
+    adopted security protection measures that comply with industry standards and
+    are reasonably feasible to protect your information from unauthorized
+    access, public disclosure, use, modification, damage, or loss. For example,
+    we use encryption technology to enhance the security of personal
+    information. Data exchanged between your browser and the server is encrypted
+    using the SSL protocol. We provide HTTPS protocol for secure browsing. We
+    use trusted protection mechanisms to prevent personal information from
+    malicious attacks. We deploy access control mechanisms to ensure that only
+    authorized personnel can access personal information. We have already
+    subjected our major information systems to assessments of network security
+    level protection equivalent to Level 3 or higher. 2. Data Protection
+    Management Organizational Measures: We have established an advanced data
+    security management system centered around data, which spans organizational
+    development, policy design, personnel management, and product technology to
+    enhance the security of personal information. We have set up a dedicated
+    personal information protection department and designated personnel
+    responsible for the protection of children's personal information. We
+    continuously enhance employees' awareness of the importance of protecting
+    personal information through training courses and exams. 3. Response to
+    Personal Information Security Incidents: If our physical, technical, or
+    management protection facilities are breached, resulting in unauthorized
+    access, public disclosure, tampering, or destruction of information, and
+    this causes damage to your legitimate rights and interests, we will promptly
+    initiate an emergency plan and take reasonable and necessary measures to
+    minimize the impact on your personal information. If a personal information
+    security incident occurs, we will also notify you about the basic details of
+    the security incident and its possible impact, the measures we have taken or
+    will take to address the incident, suggestions on how you can independently
+    guard against risks and reduce damage, and remedial measures available to
+    you, in accordance with legal and regulatory requirements. We will notify
+    you through methods such as text messages, phone calls, push notifications,
+    and other reasonable channels. If individual notification is difficult, we
+    will make public announcements through reasonable and effective means.
+    Additionally, we will report the handling of personal information security
+    incidents in accordance with regulatory authorities' requirements. 4.
+    Prevention of Account Security Risks: When conducting online transactions on
+    the Guanggan Platform, you will inevitably need to disclose your personal
+    information, such as contact information or delivery address, to the
+    counterparty or potential counterparty. Additionally, you may communicate,
+    share information, or analyze content with third parties through our
+    services. Please take care to protect your personal information, provide it
+    to others only when necessary, and be cautious about trading with others
+    using tools other than our platform to prevent information theft or
+    telecommunications fraud. If you are concerned about the leakage of your
+    personal information, especially your account or password, please contact us
+    immediately so that we can take appropriate actions based on your request.
+    You can also independently manage "Device Management," "Account
+    Maintenance," "Account Lock" in the "My - Settings - Account and Security -
+    Security Center," and submit fraud complaints through the "Device
+    Management" function, the "Account Maintenance" function, and the "Account
+    Lock" function. It is important to protect your personal information,
+    especially in online transactions and communications. Always be cautious and
+    avoid sharing sensitive information with others unnecessarily. Additionally,
+    make use of available security features and report any suspicious or
+    fraudulent activities to us. (VI) Policy Updates This section informs you
+    about updates to the privacy policy. The company continuously works to
+    improve its products, services, and technology. When changes are made to
+    services or business processes that affect your personal information, the
+    privacy policy may be updated to reflect these changes. However, the company
+    will not restrict your rights without your explicit consent. Changes to the
+    policy will be posted on a dedicated page. For significant changes, the
+    company will also provide more prominent notices, such as notifications on
+    the Guanggan Platform or pop-up prompts. Significant changes may include: 1.
+    Major changes to the business model, such as the purpose of processing
+    personal information or the types of personal information processed. 2.
+    Changes to the subject of the privacy policy due to business adjustments,
+    mergers, and acquisitions, which result in changes to the purpose and method
+    of processing personal information. 3. Significant changes to the main
+    recipients of personal information sharing or public disclosure. 4. Changes
+    to users' rights regarding personal information and how these rights are
+    exercised. 5. Changes to the contact information of the person responsible
+    for personal information protection or the complaint channel. 6. Assessment
+    reports indicate a significant impact on individual rights due to changes in
+    personal information protection. Previous versions of the policy will be
+    archived on a dedicated page for reference. (VII) Protection of Minors In
+    electronic commerce activities, the company assumes that users have the
+    corresponding capacity for civil conduct. If you are a minor, the company
+    requires you to have your parents or other guardians carefully read the
+    policy and use the services or provide information with their prior consent.
+    If you are a child under 14 years old, before using the services, you and
+    your guardian should carefully read the dedicated "Children's Personal
+    Information Protection Rules" to ensure that you can use the services under
+    the guidance of your guardian after obtaining their consent. This is to
+    ensure your safety when using the services and conducting transactions. If
+    you are the parent or guardian of a child, please pay attention to whether
+    the child is using the services after obtaining your authorization. If you
+    have questions about the child's personal information, please contact the
+    company's dedicated personal information protection department. (VIII)
+    Contact Us The company has established a dedicated personal information
+    protection team and a person responsible for personal information
+    protection. If you have any questions, complaints, suggestions, or inquiries
+    about the privacy policy or personal information protection, you can contact
+    the company through the following methods: 1. You can fill out the Personal
+    Information Protection and Privacy Issues Feedback Questionnaire to contact
+    the company. 2. Send your questions to [contact email]. 3. Send your
+    questions to the following address: [Contact Address] Zip Code: [Zip Code]
+    The company will review the issues you raise as soon as possible and provide
+    feedback within 15 working days or within the time limit prescribed by
+    applicable laws and regulations. Please note that the company may not
+    respond to issues that are not related to the policy or personal information
+    protection. Appendix: Relevant Definitions - Guanggan Platform: Websites and
+    clients (including apps, WeChat mini-programs, or H5 pages) with the primary
+    domain [please fill in the company's domain], and applicable terminal
+    devices for the client include but are not limited to PCs, tablets, mobile
+    phones, and televisions. - Guanggan/We/Us: Includes Guanggan Technology
+    (Shenzhen) Co., Ltd. and affiliated companies. - Affiliated Companies:
+    Refers to all companies under Guanggan and their subsidiaries and associated
+    companies. - Users/You: Natural persons who access or use the
+    products/services provided by the Guanggan Platform, including registered
+    users and unregistered users. - Personal Information: Various information
+    recorded electronically or by other means related to identified or
+    identifiable natural persons. - Sensitive Personal Information: Personal
+    information that, if leaked, unlawfully provided, or misused, may endanger
+    personal and property safety, cause harm to personal reputation, physical
+    and mental health, or discrimination. Sensitive personal information covered
+    by this policy includes biometric data, religious beliefs, specific
+    identities, medical and health information, financial accounts, whereabouts,
+    and information of children under the age of fourteen. - Personal
+    Information Deletion: The act of removing personal information from systems
+    related to daily business functions, making it non-retrievable and
+    inaccessible. - Children: Natural persons under the age of fourteen. -
+    Minors: Natural persons under the age of eighteen who are considered minors.
+    Minors over sixteen years of age who rely on their labor income as the main
+    source of livelihood are considered to be fully capable of civil conduct. -
+    Device Information: Includes device identifiers (IMEI, IDFA, Android ID,
+    MAC, OAID, IMSI, and other device-related information), application
+    information (application crash information, notification switch status,
+    application installation lists, and other application-related information),
+    device parameters and system information (device type, device model,
+    operating system, and hardware-related information), and device network
+    environment information (IP address, Wi-Fi information, base station
+    information, and other network-related information). The actual collection
+    depends on the product. - Service Log Information: Includes browsing
+    records, click view records, search query records, favorites, items added to
+    shopping carts, and other records of your interactions with the Guanggan
+    Platform.
+  </div>
+</template>
